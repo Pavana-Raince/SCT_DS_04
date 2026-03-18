@@ -18,8 +18,6 @@ Addressed technical challenges including DAX circular dependencies and data type
 ## Files Included
 road_accident_analysis.pbix – Power BI project file
 
-Accidents0515.csv – Source dataset
-
 output_chart.png – Final dashboard visualization
 
 ## Result
