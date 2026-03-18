@@ -11,7 +11,7 @@ DAX (Data Analysis Expressions)
 
 Dataset: UK Road Safety Data (Accidents0515.csv)
 
-Description
+## Description
 Performed Exploratory Data Analysis (EDA) to transform raw geographic and temporal data into an interactive dashboard. 
 Addressed technical challenges including DAX circular dependencies and data type conversions to enable accurate chronological sorting of accident trends.
 
